@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: 'https://garson-be.herokuapp.com/api/v1/',
+    baseURL: 'https://qr-code-menus-be.azurewebsites.net/api/v1/',
 })
